@@ -10,13 +10,9 @@ A: Its simplicity and massive ecosystem. Python is open-source and platform-inde
 
 Q4: Where is Python actually used in the real world?
 A: It’s a "Swiss Army Knife" for tech. It is used for:
-
 Data Science: Analyzing trends and creating visual charts.
-
 AI & Machine Learning: Teaching computers to learn from data.
-
 Web Development: Building the back-end of websites.
-
 Finance: Handling complex accounting and quantitative analysis.
 
 Q5: What was the first coding milestone achieved today?
