@@ -32,3 +32,7 @@ Other common ones include `\n` to force a new line.
 
 * **`sep` (Separator):** Dictates how to separate multiple items passed into one print statement. The default is a blank space (`' '`), but you can change it to a hyphen, comma, etc.
 * **`end`:** Dictates what gets printed at the very end of the statement. The default is a newline character (`\n`), which drops the cursor to the next line automatically. You can change this to keep the next print statement on the exact same line.
+
+Also, # is known as "Pound" and ~ is known as "Tilde" in Programming Language.
+Ctrl/Cmd + / will comment or un-comment any line or grp of line.
+Alt + Arrow keys can move any line.
