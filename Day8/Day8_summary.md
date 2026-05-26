@@ -1,0 +1,1 @@
+# Shout out session for solution of Day 7 exercise.
