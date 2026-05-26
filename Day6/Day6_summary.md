@@ -41,7 +41,7 @@ print(type(a))  # Outputs: <class 'int'>
 * **Tuple (`tuple`):** An ordered, unchangeable (**immutable**) collection wrapped in parentheses `()`. Once created, you cannot modify its elements.
 * **Dictionary (`dict`):** An unordered collection of **key:value** pairs wrapped in curly braces `{}`. It acts like a real-world dictionary where you look up a "key" (word) to find its "value" (definition).
 
-```
+```python
 # Quick examples of collection types
 my_list = [1, "apple", 3.4]
 my_tuple = ("sparrow", "hawk")
