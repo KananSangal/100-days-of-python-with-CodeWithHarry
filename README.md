@@ -5,3 +5,6 @@
 # Day 4: Explored the print() statement mechanics and handled multi-line string rendering in the console.
 # Day 5: Studied the execution difference between code comments and unassigned string literals, handled string formatting using escape characters, and utilized the sep and end parameters to customize console output streams.
 # Day 6: Analyzed variable declaration and data type classification in Python, noting the structural differences between mutable sequences (lists) and immutable sequences (tuples).
+# Day 7: Implemented mathematical operations using Python arithmetic operators and built a basic, static two-variable calculator script.
+# Day 8: Shout Out Session.
+# Day 9: Explored typecasting mechanisms, differentiating between manual explicit conversion via built-in constructor functions (int(), str()) and automated implicit conversion handled by the interpreter's type hierarchy.
