@@ -1,9 +1,3 @@
-Day 4 keeps things simple but disciplined. It’s all about building that muscle memory of writing clean syntax and learning how to output information to the user.
-
-Here is the structured Q&A summary for your Markdown file:
-
----
-
 ## Python Learning Journey: Day 4 Summary
 
 ### Q1: What was the main hands-on tool explored today?
