@@ -8,3 +8,5 @@
 # Day 7: Implemented mathematical operations using Python arithmetic operators and built a basic, static two-variable calculator script.
 # Day 8: Shout Out Session.
 # Day 9: Explored typecasting mechanisms, differentiating between manual explicit conversion via built-in constructor functions (int(), str()) and automated implicit conversion handled by the interpreter's type hierarchy.
+# Day 10: Implemented dynamic user data ingestion using the input() function and applied explicit typecasting to handle non-string console inputs.
+# 
