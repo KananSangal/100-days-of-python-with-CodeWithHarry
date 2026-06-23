@@ -20,6 +20,5 @@
 - **Day 18:** Mastered conditional iteration using `while` loops, explored the evaluation behavior of the optional `else` block, and emulated an exit-controlled `do-while` loop structure using an infinite `while True` loop combined with conditional `break` guards.
 - **Day 19:** Implemented jump statements (`break` and `continue`) to manipulate conditional loop cycles and skip specific execution frames.
 - **Day 20:** Implemented modular logic isolation using Python functions, mastering user-defined function syntax via the `def` keyword, handling structural indentation rules, and passing dynamic data arguments through predefined parameters.
-- 
-- 
-- 
+- **Day 21:** Explored dynamic argument parsing strategies in Python, mastering the behavioral differences between required parameters, default values, explicit keyword bindings, and arbitrary variable-length inputs while utilizing the `return` keyword to pass evaluated expressions back to the caller.
+
