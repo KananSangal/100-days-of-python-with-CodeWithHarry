@@ -19,7 +19,7 @@
 - **Day 17:** Implemented sequence iteration using `for` loops across iterable data types and utilized the `range()` generator function, analyzing how the `start`, `stop`, and `step` parameters govern iteration frequency and direction.
 - **Day 18:** Mastered conditional iteration using `while` loops, explored the evaluation behavior of the optional `else` block, and emulated an exit-controlled `do-while` loop structure using an infinite `while True` loop combined with conditional `break` guards.
 - **Day 19:** Implemented jump statements (`break` and `continue`) to manipulate conditional loop cycles and skip specific execution frames.
-- 
+- **Day 20:** Implemented modular logic isolation using Python functions, mastering user-defined function syntax via the `def` keyword, handling structural indentation rules, and passing dynamic data arguments through predefined parameters.
 - 
 - 
 - 
